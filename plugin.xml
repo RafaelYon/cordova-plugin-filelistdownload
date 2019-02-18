@@ -3,12 +3,12 @@
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
     id="org.nypr.cordova.filelistdownloadplugin"
-    version="0.1.0">
+    version="0.1.1">
     <name>Device</name>
     <description>File List Download Plugin</description>
     <license>Apache 2.0</license>
     <keywords>file,download</keywords>
-    <repo>git@git.wnyc.net:mobile/cordova/cordova-plugin-filelistdownload.git</repo>
+    <repo>git@github.com:RafaelYon/cordova-plugin-filelistdownload.git</repo>
 
     <js-module src="www/filelistdownload.js" name="FileListDownload">
       <clobbers target="filelistdownload"/>
