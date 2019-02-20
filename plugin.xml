@@ -38,7 +38,7 @@
             </feature>
         </config-file>
 
-        <dependency id="org.nypr.cordova.nslogger-cocoalumberjack-connector-plugin" url="https://github.com/wnyc/cordova-plugin-nslogger-cocoalumberjack-connector.git" />
+        <dependency id="org.nypr.cordova.nslogger-cocoalumberjack-connector-plugin" url="https://github.com/RafaelYon/cordova-plugin-nslogger-cocoalumberjack-connector.git" />
 
         <header-file src="src/ios/FileListDownloadPlugin.h" />
         <header-file src="src/ios/DownloadHandler.h" />
